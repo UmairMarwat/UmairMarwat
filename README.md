@@ -1,16 +1,10 @@
 ### Hi there 👋
 
-
-**UmairMarwat/UmairMarwat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
-- 🔭 I’m currently working on Front
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m Web Developer
+- 🌱 I’m currently improving my skill in React jS
+- 📫 How to reach me:
+ ### Email:
+ umairmarwat123@gmail.com 
+ ### Linkdin
+ https://www.linkedin.com/in/umair-khan-58580a18a/
 
