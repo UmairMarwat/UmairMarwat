@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m Web Developer
-- 🌱 I’m currently improving my skill in MERN Stack
+- 🌱 I’m currently working  in MERN Stack
 - 📫 How to reach me:
  ### Email:
  umairmarwat123@gmail.com 
